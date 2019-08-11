@@ -1,0 +1,5 @@
+﻿1>------ Rebuild All started: Project: lOG, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(4603,5): warning MSB3061: Unable to delete file "c:\users\jeewantha bandara\documents\visual studio 2015\Projects\lOG\lOG\bin\Debug\lOG.exe". Access to the path 'c:\users\jeewantha bandara\documents\visual studio 2015\Projects\lOG\lOG\bin\Debug\lOG.exe' is denied.
+1>C:\Users\Jeewantha Bandara\documents\visual studio 2015\Projects\lOG\lOG\Form1.cs(50,51,50,59): error CS1501: No overload for method 'Contains' takes 2 arguments
+1>C:\Users\Jeewantha Bandara\documents\visual studio 2015\Projects\lOG\lOG\Form1.cs(48,28,48,37): warning CS0219: The variable 'txtsearch' is assigned but its value is never used
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
